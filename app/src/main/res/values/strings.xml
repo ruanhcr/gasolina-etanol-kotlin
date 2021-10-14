@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gasolina ou Etanol</string>
+
+    <!-- MainActivity -->
+    <string name="valor_etanol">Valor Etanol</string>
+    <string name="valor_gasolina">Valor Gasolina</string>
+    <string name="txt_opcao">Descubra qual é a melhor opção para abastecimento do seu carro!</string>
+    <string name="txt_nenhuma_opcao">Nenhuma opção escolhida</string>
+    <string name="txt_preencher">Preencha todos os campos primeiro!</string>
+    <string name="campo_gasolina">Digite o preço do litro da Gasolina</string>
+    <string name="campo_etanol">Digite o preço do litro do Etanol</string>
+    <string name="campo_valor_total">Digite o valor a ser abastecido</string>
+
+    <!-- EtanolActivity -->
+    <string name="txt_melhor_abastacer">Melhor abastecer com</string>
+    <string name="etanol">Etanol</string>
+
+    <!-- GasolinaActivity -->
+    <string name="gasolina">Gasolina</string>
+    <string name="txt_porcentagem">Economia de 00%</string>
+    <string name="txt_economia">R$00.00 economizados a cada R$00.00 abastecidos</string>
+
+    <!-- Botões -->
+    <string name="botao_calcular">Calcular</string>
+    <string name="botao_recalcular">Calcular outro valor</string>
+</resources>
